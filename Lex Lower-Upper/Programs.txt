@@ -1,0 +1,4 @@
+paranthesis matching
+counting number of lines , words and characteres
+separate count of vowels and consonants 
+{}lower to upper and upper to lower
